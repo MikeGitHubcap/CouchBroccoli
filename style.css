@@ -15,7 +15,7 @@ h1 {
     margin: 0px;
     border: 0px;
     z-index: 10;
-    position: relative;
+    position: static;
     
 
 }
@@ -30,7 +30,7 @@ h1 {
     margin: 0px;
     border: 0px;
     z-index: 10;
-    position: relative;
+    position: static;
     
 }
 
@@ -44,7 +44,7 @@ h1 {
     margin: 0px;
     border: 0px;
     z-index: 10;
-    position: relative;
+    position: static;
     
 }
 
